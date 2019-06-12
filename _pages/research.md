@@ -1,6 +1,7 @@
 ---
 layout: page
 title: research
+exclude: true
 permalink: /research/
 description: Currently-active or recently completed projects.
 ---

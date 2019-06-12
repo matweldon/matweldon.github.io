@@ -1,0 +1,16 @@
+### My notes
+
+ * To remove a page from the header use `exclude: true` in the yaml header of the page's markdown file in _pages
+
+To view locally, from the top-level directory, use the command `bundle exec jekyll serve` and the site will be viewable at localhost:4000
+
+
+There are two git branches: master and source.
+Make changes in source, and commit them, then use the script
+`./bin/deploy --user` to deploy to git.
+The script appears to handle the master and source branches.
+
+There are two other (unused) branches on github: gh-pages and notmaster. Delete them.
+
+
+

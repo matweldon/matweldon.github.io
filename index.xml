@@ -6,14 +6,24 @@
     <description>Recent content in HOME on Mat Weldon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Apr 2022 21:49:57 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Furlough and Idleness</title>
+      <link>/2022/furlough-and-idleness/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/furlough-and-idleness/</guid>
+      <description>&amp;lsquo;Don&amp;rsquo;t just do something &amp;ndash; stand there!&amp;rsquo; Occasionally, as a practicing Buddhist, I visit a Zen Buddhist temple in Northumbria for a few days. And when I visit I, like all visitors and monks, do my part of the daily work in the monastery: cleaning; helping in the kitchen; outdoor work; sewing. The most busy time is after meals, when volunteers are asked for to do kitchen clean-up. As you can imagine, people are keen to muck in, so quite often more people turn up than there are jobs to be done.</description>
+    </item>
+    
     <item>
       <title>Regional Automatic Stabilisers</title>
       <link>/2022/regional-automatic-stabilisers/</link>
       <pubDate>Wed, 06 Apr 2022 21:49:57 -0700</pubDate>
       
       <guid>/2022/regional-automatic-stabilisers/</guid>
-      <description>Regional automatic stabilisers Tom Forth writes that it is unfair that the South East contributes more than its fair share to public services. It&amp;rsquo;s an important point. Regional inequality affects all developed nations to some extent, and in most places the problem is getting worse. But at the same time he invokes the notion of solidarity: if the South East did not pay more than it&amp;rsquo;s fair share towards the nation&amp;rsquo;s public services an important part of the pact that holds the country together would be broken.</description>
+      <description>This post is just an experiment to see if I can make a workflow from handwritten notes on my iPad to publication quickly. It&amp;rsquo;s not a full post but a fragment of ideas I wrote freehand and then converted using iPad&amp;rsquo;s built-in text conversion tools.
+Regional automatic stabilisers Tom Forth writes that it is unfair that the South East contributes more than its fair share to public services. It&amp;rsquo;s an important point.</description>
     </item>
     
     <item>
@@ -49,22 +59,22 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     </item>
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Mat is a Senior Data Scientist, working on Privacy Enhancing Technologies at the Data Science Campus (profile) of the UK Office for National Statistics. Prior to joining the ONS, he worked at the Department for Education as an Economic Adviser.
-Before joining the civil service, Mat completed a PhD in statistics and conducted research in the economics of education at the University of Lancaster. Before that, he worked for several years in administrative jobs in the private and public sectors.</description>
-    </item>
-    
-    <item>
       <title>Lorem Ipsum</title>
       <link>/2015/lorem-ipsum/</link>
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
       
       <guid>/2015/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Mat is a Senior Data Scientist, working on Privacy Enhancing Technologies at the Data Science Campus (profile) of the UK Office for National Statistics. Prior to joining the ONS, he worked at the Department for Education as an Economic Adviser.
+Before joining the civil service, Mat completed a PhD in statistics and conducted research in the economics of education at the University of Lancaster. Before that, he worked for several years in administrative jobs in the private and public sectors.</description>
     </item>
     
   </channel>

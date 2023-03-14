@@ -6,11 +6,11 @@
     <description>Recent content in HOME on Mat Weldon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Urbanism of Lancaster University</title>
       <link>/2022/the-urbanism-of-lancaster-university/</link>
-      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>/2022/the-urbanism-of-lancaster-university/</guid>
       <description>Urbanism is a topic people I follow have been talking about a lot lately. These people I follow who talk about urbanism are often either US or UK-based, and what they talk about primarily is the ideal of dense, walkable, sustainable communities that interweave comfort, utility, cultural and natural amenities. But urbanism is almost always, as the name suggests, about big cities.
@@ -18,12 +18,30 @@ I&amp;rsquo;m really into the idea of dense, walkable, sustainable communities, 
     </item>
     
     <item>
-      <title>Furlough and Idleness</title>
-      <link>/2022/furlough-and-idleness/</link>
-      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      <title>American Sweets, sorry, Candy</title>
+      <link>/2021/american-sweets-sorry-candy/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2022/furlough-and-idleness/</guid>
+      <guid>/2021/american-sweets-sorry-candy/</guid>
+      <description>My local corner shop now has three whole shelves dedicated to american confectionary: varieties of peanut-butter filled Reeses pieces; chews unaccountably claiming to be &amp;lsquo;grape&amp;rsquo; flavoured; vomit-tainted Hershey chocolate; and so on. I&amp;rsquo;ve noticed the same pattern in other shops too. This is not a complaint: the sweets are clearly fashionable, and in general (apart from Hershey bars) don&amp;rsquo;t taste any worse than the sickly-sweet, artificial treats I&amp;rsquo;m used to from my childhood.</description>
+    </item>
+    
+    <item>
+      <title>Furlough and Idleness</title>
+      <link>/2021/furlough-and-idleness/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/furlough-and-idleness/</guid>
       <description>&amp;lsquo;Don&amp;rsquo;t just do something &amp;ndash; stand there!&amp;rsquo; Occasionally, as a practicing Buddhist, I visit a Zen Buddhist temple in Northumbria for a few days. And when I visit I, like all visitors and monks, do my part of the daily work in the monastery: cleaning; helping in the kitchen; outdoor work; sewing. The most busy time is after meals, when volunteers are asked for to do kitchen clean-up. As you can imagine, people are keen to muck in, so quite often more people turn up than there are jobs to be done.</description>
+    </item>
+    
+    <item>
+      <title>Game Theory Cliches</title>
+      <link>/2021/game-theory-cliches/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/2021/game-theory-cliches/</guid>
+      <description>Sometimes I&amp;rsquo;m glad I learned a bit of game theory I learned a bit of undergraduate game theory, alarmingly, by teaching the subject to undergraduates. Don&amp;rsquo;t be so surprised &amp;ndash; this happens more often in universities than they&amp;rsquo;d like to admit. And don&amp;rsquo;t feel too sorry for my students &amp;ndash; I think people who&amp;rsquo;ve only just learned the topic can be excellent teachers. Since then, I think about game theory a lot.</description>
     </item>
     
     <item>
@@ -44,24 +62,6 @@ I&amp;rsquo;m really into the idea of dense, walkable, sustainable communities, 
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
-    </item>
-    
-    <item>
-      <title>American Sweets, sorry, Candy</title>
-      <link>/2020/american-sweets-sorry-candy/</link>
-      <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/2020/american-sweets-sorry-candy/</guid>
-      <description>My local corner shop now has three whole shelves dedicated to american confectionary: varieties of peanut-butter filled Reeses pieces; chews unaccountably claiming to be &amp;lsquo;grape&amp;rsquo; flavoured; vomit-tainted Hershey chocolate; and so on. I&amp;rsquo;ve noticed the same pattern in other shops too. This is not a complaint: the sweets are clearly fashionable, and in general (apart from Hershey bars) don&amp;rsquo;t taste any worse than the sickly-sweet, artificial treats I&amp;rsquo;m used to from my childhood.</description>
-    </item>
-    
-    <item>
-      <title>Game Theory Cliches</title>
-      <link>/2019/game-theory-cliches/</link>
-      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/game-theory-cliches/</guid>
-      <description>Sometimes I&amp;rsquo;m glad I learned a bit of game theory I learned a bit of undergraduate game theory, alarmingly, by teaching the subject to undergraduates. Don&amp;rsquo;t be so surprised &amp;ndash; this happens more often in universities than they&amp;rsquo;d like to admit. And don&amp;rsquo;t feel too sorry for my students &amp;ndash; I think people who&amp;rsquo;ve only just learned the topic can be excellent teachers. Since then, I think about game theory a lot.</description>
     </item>
     
     <item>
